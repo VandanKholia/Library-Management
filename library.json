@@ -1,0 +1,15 @@
+{
+    "books": [
+        {
+            "title": "The Secret",
+            "author": "Rhonda Byrne",
+            "id": "1001"
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "id": "1002"
+        }
+    ],
+    "borrowed_books": {}
+}
